@@ -1,6 +1,10 @@
 # JAVA
-大数据181陈昱夙2018310483
-这是流程图![流程图]:https://github.com/yusu-chen/JAVA/blob/%E5%A4%A7%E6%95%B0%E6%8D%AE181%E9%99%88%E6%98%B1%E5%A4%992018310483/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191117210431.png
+#### 大数据181陈昱夙2018310483  
+
+[流程图]:https://github.com/yusu-chen/JAVA/blob/%E5%A4%A7%E6%95%B0%E6%8D%AE181%E9%99%88%E6%98%B1%E5%A4%992018310483/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191117210431.png  
+[结果图]:https://raw.githubusercontent.com/yusu-chen/JAVA/%E5%A4%A7%E6%95%B0%E6%8D%AE181%E9%99%88%E6%98%B1%E5%A4%992018310483/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191117211530.png
+这是流程图![流程图]
+实验结果![结果图]
 一、实验目的
 掌握字符串String及其方法的使用
 掌握异常处理结构
